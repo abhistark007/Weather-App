@@ -10,4 +10,6 @@
 
 
 #Mobile
+
+
 ![image](https://github.com/abhistark007/Weather-App/assets/58290134/daeb236a-7cd8-4c81-9007-e383f2915cb1)
